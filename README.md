@@ -6,7 +6,7 @@
 
 本项目名为 **PWM Controller**，是一套基于 Node.js + Express 开发的轻量化硬件控制 Web 上位机，内置 Session 登录校验机制；前端采用原生 Web Serial API 直连 USB 串口设备，可可视化调节 8 路 PWM 信号的频率与占空比。
 
-项目提供完整 Dockerfile，基于 `node:18-alpine` 轻量镜像打包，无需本地安装 Node 运行环境，支持 Windows / macOS / Linux 全平台一键部署。
+基于 `node:18-alpine` 轻量镜像打包，无需本地安装 Node 运行环境，支持 Windows / macOS / Linux 全平台一键部署。
 
 ## 核心功能
 
