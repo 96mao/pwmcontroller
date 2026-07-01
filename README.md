@@ -87,7 +87,7 @@ docker run -d -p 8080:8080 --name pwm-web-server 96mao/pwmcontroller:latest
 **镜像地址**：[https://hub.docker.com/r/96mao/pwmcontroller](https://hub.docker.com/r/96mao/pwmcontroller)
 
 - **访问地址**：`http://localhost:8080`
-- **登录账号**：`admin` / `admin123`
+- **登录账号**：`admin` / `123123`
 
 
 # 声明容器内部 Web 服务端口
